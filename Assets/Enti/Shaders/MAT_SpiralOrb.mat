@@ -98,10 +98,10 @@ Material:
     - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
     - _AlphaToMask: 0
-    - _AmountOfStrips: 4
+    - _AmountOfStrips: 5.35
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
-    - _BlinkSpeed: 5
+    - _BlinkSpeed: 1
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
@@ -122,21 +122,21 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _SecondaryAmountOfStrips: 16
+    - _SecondaryAmountOfStrips: 8.12
     - _SecondaryBlinkSpeed: 1
     - _SecondaryColorIntensity: 1
-    - _SecondaryHorizontalDisplacement: 0.43
+    - _SecondaryHorizontalDisplacement: -7.2
     - _SecondaryStripSize: 0.05
-    - _SecondaryVerticalSpeed: 1.21
+    - _SecondaryVerticalSpeed: 1.85
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
-    - _StripSize: 0.08
-    - _StripsHorizontalDisplacement: 1.76
+    - _StripSize: 0.06
+    - _StripsHorizontalDisplacement: 6.87
     - _Surface: 0
-    - _VerticalSpeed: 0.2
+    - _VerticalSpeed: 1.58
     - _WorkflowMode: 1
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
@@ -144,7 +144,7 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SecondStripsColor: {r: 0.2776951, g: 0.5943396, b: 0.01401744, a: 1}
+    - _SecondStripsColor: {r: 0.23396665, g: 0.990566, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _StripsColor: {r: 0, g: 0.6130192, b: 0.6981132, a: 1}
   m_BuildTextureStacks: []
